@@ -1,4 +1,5 @@
 ## Complete Recent Discord Quest
+- This JavaScript code is a Discord Quest spoofing script - it’s made to fake progress in Discord “Quests” (like “watch a video,” “play on desktop,” or “stream on desktop”) without actually performing the required actions.
 
 > [!NOTE]
 > This does not works in browser for quests which require you to play a game! Use the [desktop app](https://discord.com/download) to complete those.
